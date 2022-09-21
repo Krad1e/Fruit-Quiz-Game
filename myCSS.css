@@ -1,0 +1,61 @@
+#con{
+    margin: 0px;
+    padding: 10px;
+    color:azure;
+    font-family: fantasy;
+}
+
+h1{
+    text-align: center;
+    margin: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    color:rgb(255, 102, 0);
+}
+
+.centerImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 50%;
+    padding: 20px;
+}
+
+.center {
+    margin: auto;
+    width: 25%;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.center2 {
+    margin: auto;
+    width: 50%;
+}
+
+Button{
+    margin: auto;
+    width: 200px;
+    height:50px;
+    text-align: center;
+    font-size: medium;
+}
+
+Body{
+    min-width: 1645px;
+    min-height: 600px;
+}
+
+.center3{
+    position:relative;
+    left: 42%;
+    padding: 20px;
+
+}
+
+.playAgain{
+    width: 200px;
+    height: 30px;
+}
